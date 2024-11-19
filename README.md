@@ -1,2 +1,0 @@
-# LightRAG-for-Openwebui
-一个LightRAG的API模拟器，用于在Openwebui中通过自带的Ollama接口使用LightRAG；通过对话时使用前缀，还可以实现lightrag的模式切换。
