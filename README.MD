@@ -4,13 +4,13 @@
 <small style="color:gray;">This is an API simulator for LightRAG, used to utilize LightRAG in Openwebui through the built-in Ollama interface; mode switching of LightRAG can also be achieved by using prefixes during conversations.</small>
 
 ## 🎉🎉🎉 声明 🎉🎉🎉  
-<small style="color:gray;">## 🎉🎉🎉 Disclaimer 🎉🎉🎉</small>
+<small style="color:gray;"> 🎉🎉🎉 Disclaimer 🎉🎉🎉</small>
 
-由于本人没有接触过python和api的各种知识，更不会二次开发openwebui，代码是网上学习过程中使用AI工具编写（包括这个README.md），感谢互联网上大家的开源内容和免费提供的各种ai工具，使得我可以上传我的第一个github小项目。尽管代码实现过程并不优美，但胜在简单易用。如有任何问题或建议，请联系我删除。  
-<small style="color:gray;">Since I have no prior knowledge of Python and APIs, nor the ability to redevelop Openwebui, the code was written using AI tools during online learning (including this README.md). Thanks to everyone's open-source content and various free AI tools available on the internet, I was able to upload my first GitHub project. Although the code implementation is not elegant, it is simple and easy to use. If you have any questions or suggestions, please contact me for removal.</small>
+由于本人没有接触过python和api的各种知识，更不会二次开发openwebui，代码是网上学习过程中使用AI工具编写（包括这个README.md），感谢互联网上大家的开源内容和免费提供的各种ai工具，使得我可以上传我的第一个github小项目。尽管代码实现过程并不优美，但胜在简单易用。如有任何问题或建议，请告诉我。  
+<small style="color:gray;">Since I have no prior knowledge of Python and APIs, nor the ability to redevelop Openwebui, the code was written using AI tools during online learning (including this README.md). Thanks to everyone's open-source content and various free AI tools available on the internet, I was able to upload my first GitHub project. Although the code implementation is not elegant, it is simple and easy to use. If you have any questions or suggestions, please tell me.</small>
 
 ## 🚀 快速开始  
-<small style="color:gray;">## 🚀 Quick Start</small>
+<small style="color:gray;"> 🚀 Quick Start</small>
 
 1. 首先你需要正确配置Lightrag的api服务器（[API Server Implementation](https://github.com/HKUDS/LightRAG/blob/main/README.md#api-server-implementation)），并确保可以正常访问。  
    <small style="color:gray;">First, you need to properly configure the Lightrag API server ([API Server Implementation](https://github.com/HKUDS/LightRAG/blob/main/README.md#api-server-implementation)) and ensure it is accessible.</small>
@@ -28,7 +28,7 @@
    <small style="color:gray;">Create a new conversation in Openwebui, `LightragModel:latest` will be displayed, select this model to use LightRAG.</small>
 
 ## ⚙️ 配置选项  
-<small style="color:gray;">## ⚙️ Configuration Options</small>
+<small style="color:gray;"> ⚙️ Configuration Options</small>
 
 在 `ApiSimulator.py` 文件中提供了以下配置选项：  
 <small style="color:gray;">The following configuration options are provided in the `ApiSimulator.py` file:</small>
